@@ -7,8 +7,10 @@ My approach to the Pacman simulation problem in javascript.
 
 Prerequisites:
 
-This simulator requires Node.js and NPM to be installed on your system. For instructions on installing please visit: https://nodejs.org/en/
-This project is written with EcmaScript2015(ES6) so running directly with node with result in errors. 
+This simulator requires Node.js (v8+ preferred) and NPM to be installed on your system. For instructions on installing please visit: https://nodejs.org/en/
+
+This project is written with EcmaScript2015(ES6/ES2015) so running directly with node with result in errors. To resolve that use the following:
+
 
 ```sh
 $ npm install
